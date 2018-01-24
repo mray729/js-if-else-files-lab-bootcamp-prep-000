@@ -1,12 +1,5 @@
-var name = "Joe"
-var height = 74
-if (name==="Joe")
-console.log("The name is correct")
-}else {
-}
-if(height===74)
-}else{
-}
+var name = "Susan"
+var height = "70"
 
 
 // Don't worry about this
